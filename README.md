@@ -1,4 +1,4 @@
-# cire-2022
+# olmeca team
 Aqui se subiran los repositorios del equipo OLMECA TEAM
 
 Descargar la carpeta, guardar en /CIRE2022/catkin_ws/src   
